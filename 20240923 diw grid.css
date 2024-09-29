@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+}
+
+#container {
+    display: grid;
+    /* border: solid black 1px; */
+    grid-template-rows: 1fr 4fr 1fr;
+    height: 100vh;
+}
+
+#first_row {
+    /* border: solid black 1px; */
+    background-color: azure;
+    padding: 10px;
+}
+#second_row {
+    /* border: solid black 1px; */
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+#third_row {
+    /* border: solid black 1px; */
+    background-color: beige;
+    padding: 10px;
+}
+
+#aside_column {
+    /* border: solid black 1px; */
+    background-color: honeydew;
+    padding: 10px;
+}
+#main_column {
+    /* border: solid black 1px; */
+    background-color: lavenderblush;
+    padding: 10px;
+}
