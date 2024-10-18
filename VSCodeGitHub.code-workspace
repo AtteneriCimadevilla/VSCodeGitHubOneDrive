@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../VSCodeGitHub"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VSCodeGitHubOneDrive"
+	}
+}
